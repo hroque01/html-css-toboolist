@@ -4,10 +4,17 @@ body {
 
 /* Intestazione */
 header {
+    background-image: url(img/Logo.png);
+    background-repeat: no-repeat ;
     background-color: white;
+    padding-bottom: 10px;
     margin-bottom: 50px;
 }
 
+.Titolo {
+    padding-left: 50px;
+    margin-bottom: 10px;
+}
 .image {
     padding-left: 20px;
     vertical-align: auto;
