@@ -37,10 +37,11 @@ header {
 }
 
 .Task {
+    text-align: center;
     display: inline-block;
     margin-top: 10px;
     border-radius: 5px;
-    width: 65px;
+    width: 70px;
     border: 1px solid lightgrey;
     background-color: #388fff;
     color: white;
@@ -48,6 +49,7 @@ header {
     padding-left: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
+    font-family: arial;
 }
 
 .Section {
@@ -57,6 +59,48 @@ header {
     display: inline-block;
     padding-right: 10px;
     padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Lista {
+    margin-left: 440px;
+    margin-right: 600px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+h2 {
+    font-family: arial;
+}
+.check {
+    display: inline-block;
+    text-align: center;
+    width: 23px;
+    color: green;
+    border: 1px solid green;
+    border-radius: 20px;
+}
+
+#text {
+    display: inline-block;
+    font-family: arial;
+}
+
+.Editorial {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: #388fff;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
     padding-top: 5px;
     padding-bottom: 5px;
 }
