@@ -30,7 +30,6 @@ header {
     margin-top: 50px;
     margin-left: 400px;
     margin-right: 600px;
-    margin-bottom: 50px;
     background-color: white;
     padding: 10px 50px 10px 50px;
     border-bottom: 1px solid lightgrey;
@@ -63,18 +62,32 @@ header {
     padding-bottom: 5px;
 }
 
-.Lista {
+.contenitore2 {
+    width: 1000px;
+    margin-left: 400px;
+    margin-right: 600px;
+    margin-bottom: 50px;
+    background-color: white;
+    padding: 10px 50px 10px 50px;
+    border-bottom: 1px solid lightgrey;
+}
+/* .Lista {
+    width: 1000px;
+    padding: 10px 50px 10px 50px;
     margin-left: 440px;
     margin-right: 600px;
     padding-right: 10px;
     padding-left: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
-}
+} */
 
+/* New Task */
 h2 {
     font-family: arial;
+    margin-bottom: 5px;
 }
+
 .check {
     display: inline-block;
     text-align: center;
@@ -87,6 +100,7 @@ h2 {
 #text {
     display: inline-block;
     font-family: arial;
+    margin-bottom: 10px;
 }
 
 .Editorial {
@@ -103,4 +117,98 @@ h2 {
     padding-left: 3px;
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.ToDo {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.Q1 {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: #BA55D3;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
+
+.Recruiting {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: #3CB371;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px
+}
+
+.cross {
+    display: inline-block;
+    text-align: center;
+    width: 23px;
+    color: rgb(107, 12, 12);
+    border: 1px solid rgb(107, 12, 12);
+    border-radius: 20px;
+}
+
+.Mobile {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: orange;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Website {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: pink;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Sales {
+    font-size: 11px;
+    font-family: arial;
+    text-align: center;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 65px;
+    background-color: #808000;
+    color: white;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px; 
 }
