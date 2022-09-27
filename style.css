@@ -1,18 +1,22 @@
 body {
+    margin: 0;
     background: #F0F0F0;
 }
 
 /* Intestazione */
 header {
+    background-position: 20px 10px;
     background-image: url(img/Logo.png);
     background-repeat: no-repeat ;
     background-color: white;
     padding-bottom: 10px;
     margin-bottom: 50px;
+    padding-top: 12px;
+
 }
 
 .Titolo {
-    padding-left: 50px;
+    padding-left: 70px;
     margin-bottom: 10px;
 }
 .image {
