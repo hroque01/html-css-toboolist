@@ -1,0 +1,30 @@
+body {
+    background: #F0F0F0;
+}
+
+/* Intestazione */
+header {
+    background-color: white;
+}
+
+.image {
+    display: inline-block;
+    width: 30px;
+}
+
+/* Tendina */
+.contenitore {
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 5200px;
+    margin-bottom: 50px;
+    border-radius: 2%;
+    background-color: white;
+    padding: 10px 50px 50px 50px;
+}
+
+.Task {
+    background-color: aqua;
+    
+}
